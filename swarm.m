@@ -7,7 +7,6 @@ classdef swarm
         D % distance matrix
     end
     
-    
     methods
         function group = swarm(n, range)
             group.n = n;

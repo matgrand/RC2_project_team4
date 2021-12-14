@@ -6,7 +6,7 @@ classdef UAV
         
         range % communication range
         
-        cam
+        cam % a camera for each drone
     end
     
     methods
